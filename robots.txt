@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lluewi.github.io/KRR/sitemap.KRR.gz
